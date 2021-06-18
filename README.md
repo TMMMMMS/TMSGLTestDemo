@@ -1,1 +1,1 @@
-# TMSGLTestDemo
+OpenGL ES的两种方式进行图片绘制
